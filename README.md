@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 09/04/2024
 
 ## AIM:
 
@@ -53,10 +53,13 @@
 
 
 ## Output:
+![IMAGE EMPD 1 (1)](https://github.com/priyadharshini210/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148514638/51a3a932-e7f7-466b-96e0-98624fbfe4c3)
+![OUTPUT EMPD 2 1](https://github.com/priyadharshini210/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148514638/cfd03e3c-06dd-4331-b55a-d98d6f0f9907)
+![OUTPUT EMPD 2 2](https://github.com/priyadharshini210/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148514638/c04921f3-4fb5-4837-ba23-62083c61a2a3)
 
 
-### Name:
-### Register Number: 
+### Name: Priyadharshini.P
+### Register Number: 212223240128
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
